@@ -27,7 +27,8 @@ Booking: Users can book a room by clicking the "Book Now" button on a hotel card
 
 ### Screenshots
 (Insert screenshots of your app here)
-![Alt Text](assets/p1.jpeg)
+
+![Alt Text](/assets/p1.jpeg)
 
 ### Setup
 To run this project locally, follow these steps:
