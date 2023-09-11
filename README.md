@@ -34,17 +34,18 @@ Booking: Users can book a room by clicking the "Book Now" button on a hotel card
     <img src="/assets/p1.jpeg" alt="Image 1" width="200"  style="margin: 10px;">
     <img src="/assets/p2.jpeg" alt="Image 2" width="200"  style="margin: 10px;">
     <img src="/assets/p3.jpeg" alt="Image 3" width="200"  style="margin: 10px;">
-    <img src="/assets/p4.jpeg" alt="Image 3" width="200"  style="margin: 10px;">
-    <img src="/assets/p5.jpeg" alt="Image 3" width="200"  style="margin: 10px;">
-    <img src="/assets/p6.jpeg" alt="Image 3" width="200"  style="margin: 10px;">
+    <img src="/assets/p4.jpeg" alt="Image 4" width="200"  style="margin: 10px;">
 </div>
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="/assets/p7.jpeg" alt="Image 1" width="200"  style="margin: 10px;">
-    <img src="/assets/p8.jpeg" alt="Image 2" width="200"  style="margin: 10px;">
-    <img src="/assets/p9.jpeg" alt="Image 3" width="200"  style="margin: 10px;">
-    <img src="/assets/p10.jpeg" alt="Image 3" width="200"  style="margin: 10px;">
+    <img src="/assets/p5.jpeg" alt="Image 1" width="200"  style="margin: 10px;">
+    <img src="/assets/p6.jpeg" alt="Image 2" width="200"  style="margin: 10px;">
+    <img src="/assets/p7.jpeg" alt="Image 3" width="200"  style="margin: 10px;">
+    <img src="/assets/p8.jpeg" alt="Image 3" width="200"  style="margin: 10px;">
+</div>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="/assets/p9.jpeg" alt="Image 1" width="200"  style="margin: 10px;">
+    <img src="/assets/p10.jpeg" alt="Image 2" width="200"  style="margin: 10px;">
     <img src="/assets/p11.jpeg" alt="Image 3" width="200"  style="margin: 10px;">
-    <img src="/assets/v1.mp4" alt="Image 3" width="200"  style="margin: 10px;">
 </div>
 
 ### Setup
