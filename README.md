@@ -31,9 +31,9 @@ Booking: Users can book a room by clicking the "Book Now" button on a hotel card
 # Image Collage Example
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="/assets/p1.jpeg" alt="Image 1" width="200" height="200" style="margin: 10px;">
-    <img src="/assets/p2.jpeg" alt="Image 2" width="200" height="200" style="margin: 10px;">
-    <img src="/assets/p3.jpeg" alt="Image 3" width="200" height="200" style="margin: 10px;">
+    <img src="/assets/p1.jpeg" alt="Image 1" width="200"  style="margin: 10px;">
+    <img src="/assets/p2.jpeg" alt="Image 2" width="200"  style="margin: 10px;">
+    <img src="/assets/p3.jpeg" alt="Image 3" width="200"  style="margin: 10px;">
 </div>
 
 ### Setup
